@@ -1,0 +1,15 @@
+main {
+     background-color: lightpink;
+}
+
+.nav {
+     display: flex;
+}
+
+.caro {
+     margin-bottom: 20px;
+}
+
+.pics-of-hostels {
+     margin-bottom: 20px;
+}

@@ -1,0 +1,74 @@
+.navbar-default {
+    background-color: white;
+    border-color: none;
+    margin-bottom: 0;
+    border-radius: 0;
+    padding: 20px;
+}
+
+.navbar-default .nav-brand {
+    padding-left: 50px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.navbar-default .nav-links>li>a {
+    color: #09cb0c;
+    font-size: 15px;
+}
+
+.carousel-inner {
+    height: 550px;
+}
+
+h1 {
+    margin-top: 20px;
+    color: red;
+}
+
+.about-us {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.thumbnail {
+    border-radius: 40px;
+}
+
+.thumbnail img {
+    border-radius: 40px;
+}
+
+.Location {
+    margin-top: 30px;
+}
+
+.Location2 {
+    margin-top: 30px;
+}
+
+.locate {
+    background-color: navajowhite;
+}
+
+.about-founder {
+    padding-top: 20px;
+}
+
+.about-founder img {
+    border-bottom-right-radius: 300px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.footer {
+    background-color: #660066;
+    padding: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+.para {
+    font-size: 20px;
+}

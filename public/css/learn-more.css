@@ -1,0 +1,75 @@
+.breadcrumb {
+	&breadcrumb-divider: none;
+	margin-bottom: 0;
+	height: 50px;
+	background-color: bisque;
+}
+
+a {
+	font-size: 20px;
+	margin: 15px;
+}
+
+.jumbo {
+	height: 550px;
+	background-image: url(https://media.istockphoto.com/id/1254051142/photo/top-view-shot-in-elementary-school-computer-science-classroom-children-sitting-at-their.jpg?s=612x612&w=0&k=20&c=588AeFHZyYfL3CkcgC04CfSJiExegiPOoaEw_j4l86M=);
+	background-attachment: fixed;
+}
+
+.jumbo-inner {
+	color: white;
+}
+
+.courses1 {
+	padding: 20px;
+}
+
+.courses1 h1{
+	padding-bottom: 30px;
+	color: lightgreen;
+}
+
+.courses2 {
+	padding: 30px;
+}
+
+.courses3 {
+	padding: 30px;
+}
+
+li {
+	font-size: 20px;
+}
+
+h2 {
+	color: deeppink;
+}
+
+.thumbnail1 {
+	background-color: azure;
+}
+
+.thumbnail1 h1 {
+	padding-bottom: 30px;
+}
+
+.thumbnail1 img {
+	border-radius: 40px;
+}
+
+.thumbnail1-row1 {
+	padding-bottom: 30px;
+}
+
+.thumbnail1-row2 {
+	padding-bottom: 30px;
+}
+
+.footer {
+	background-color: darkslategray;
+}
+
+.footer p {
+    padding: 20px;
+    color: white;
+}

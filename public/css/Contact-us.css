@@ -1,5 +1,8 @@
-main {
-	background-color: lavender;
+.body {
+	background-color: rgb(16, 16, 18);
+    margin-bottom: 0;
+    padding-bottom: 8rem;
+    color: white;
 }
 
 
@@ -13,6 +16,8 @@ main {
      margin-top: 30px;
 }
 
-input {
-	
+.submit-btn {
+    margin-top: 2rem;
+    background-color: blue;
+    border: transparent;
 }

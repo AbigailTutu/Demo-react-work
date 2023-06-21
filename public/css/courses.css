@@ -31,15 +31,15 @@ ul {
     margin-top: 0;
 }
 
-img {
+.jumbo img {
     border-radius: 50px;
 }
 
-.footer {
+/* .footer {
     background-color: orangered;
 }
 
 .footer-para {
     text-align: center;
     padding: 20px;
-}
+} */

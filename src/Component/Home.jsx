@@ -215,15 +215,15 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="container">
+      <div className="container" style={{marginBottom: "2rem"}}>
         <div className="row">
           <h1 className="text-center">About Founder</h1>
           <div className="col-md-6 about-founder">
-            <img src="/public/Images/Abi.JPG" className="img-responsive" />
+            <img src="/Images/Abi.JPG" className="img-responsive" />
           </div>
 
           <div className="col-md-6">
-            <p className="para">
+            <p className="founder-para">
               My name is Abigail Tutu. I am from Ghana. The primary and junior
               high school I attended was,{" "}
               <strong>Freshers Complex School</strong> in Accra and I completed

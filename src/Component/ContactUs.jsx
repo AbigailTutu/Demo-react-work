@@ -8,7 +8,7 @@ const ContactUs = () => {
         <h1 className="text-center">CONTACT US</h1>
       </div>
 
-      <form className="form">
+      <form className="form" style={{marginBottom: ""}}>
         <div className="container">
           <div className="row">
             <div className="col-sm-12 col-md-6">

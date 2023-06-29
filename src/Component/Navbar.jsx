@@ -41,6 +41,9 @@ const Navbar = () => {
             <li>
               <Link to="/contactUs">Contact Us</Link>
             </li>
+            <li>
+              <Link to="/comments">Comments</Link>
+            </li>
           </ul>
         </div>
       </div>

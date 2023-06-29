@@ -89,9 +89,9 @@ const Hostels = () => {
         <h1>Pictures of some of our hostels</h1>
         <div className="row">
           <div className="col-xs-6 col-md-3">
-            <a href="/public/Images/pics-of-hostels1.jpg" className="thumbnail">
+            <a href="/Images/pics-of-hostels1.jpg" className="thumbnail">
               <img
-                src="/public/Images/pics-of-hostels1.jpg"
+                src="/Images/pics-of-hostels1.jpg"
                 className="img-responsive"
                 alt="..."
               />
@@ -99,9 +99,9 @@ const Hostels = () => {
           </div>
 
           <div className="col-xs-6 col-md-3">
-            <a href="/public/Images/pics-of-hostels2.jpg" className="thumbnail">
+            <a href="/Images/pics-of-hostels2.jpg" className="thumbnail">
               <img
-                src="/public/Images/pics-of-hostels2.jpg"
+                src="/Images/pics-of-hostels2.jpg"
                 className="img-responsive"
                 alt="..."
               />
@@ -109,9 +109,9 @@ const Hostels = () => {
           </div>
 
           <div className="col-xs-6 col-md-3">
-            <a href="/public/Images/pics-of-hostels3.jpg" className="thumbnail">
+            <a href="/Images/pics-of-hostels3.jpg" className="thumbnail">
               <img
-                src="/public/Images/pics-of-hostels3.jpg"
+                src="/Images/pics-of-hostels3.jpg"
                 className="img-responsive"
                 alt="..."
               />
@@ -131,9 +131,9 @@ const Hostels = () => {
 
         <div className="row">
           <div className="col-xs-6 col-md-3">
-            <a href="/public/Images/pics-of-hostels5.jpg" className="thumbnail">
+            <a href="/Images/pics-of-hostels5.jpg" className="thumbnail">
               <img
-                src="/public/Images/pics-of-hostels5.jpg"
+                src="/Images/pics-of-hostels5.jpg"
                 className="img-responsive"
                 alt="..."
               />
@@ -141,9 +141,9 @@ const Hostels = () => {
           </div>
 
           <div className="col-xs-6 col-md-3">
-            <a href="/public/Images/pics-of-hostels6.jpg" className="thumbnail">
+            <a href="/Images/pics-of-hostels6.jpg" className="thumbnail">
               <img
-                src="/public/Images/pics-of-hostels6.jpg"
+                src="/Images/pics-of-hostels6.jpg"
                 className="img-responsive"
                 alt="..."
               />
@@ -151,9 +151,9 @@ const Hostels = () => {
           </div>
 
           <div className="col-xs-6 col-md-3">
-            <a href="/public/Images/pics-of-hostels7.jpg" className="thumbnail">
+            <a href="/Images/pics-of-hostels7.jpg" className="thumbnail">
               <img
-                src="/public/Images/pics-of-hostels7.jpg"
+                src="/Images/pics-of-hostels7.jpg"
                 className="img-responsive"
                 alt="..."
               />
@@ -161,9 +161,9 @@ const Hostels = () => {
           </div>
 
           <div className="col-xs-6 col-md-3">
-            <a href="/public/Images/pics-of-hostels8.jpg" className="thumbnail">
+            <a href="/Images/pics-of-hostels8.jpg" className="thumbnail">
               <img
-                src="/public/Images/pics-of-hostels8.jpg"
+                src="/Images/pics-of-hostels8.jpg"
                 className="img-responsive"
                 alt="..."
               />
@@ -177,32 +177,32 @@ const Hostels = () => {
         <div className="row">
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <a href="/public/Images/pic-of-gym1.jpg">
-                <img src="/public/Images/pic-of-gym1.jpg" alt="..." />
+              <a href="/Images/pic-of-gym1.jpg">
+                <img src="/Images/pic-of-gym1.jpg" alt="..." />
               </a>
             </div>
           </div>
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <a href="/public/Images/pic-of-gym2.jpg">
-                <img src="/public/Images/pic-of-gym2.jpg" alt="..." />
+              <a href="/Images/pic-of-gym2.jpg">
+                <img src="/Images/pic-of-gym2.jpg" alt="..." />
               </a>
             </div>
           </div>
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <a href="/public/Images/pic-of-gym3.jpg">
-                <img src="/public/Images/pic-of-gym3.jpg" alt="..." />
+              <a href="/Images/pic-of-gym3.jpg">
+                <img src="/Images/pic-of-gym3.jpg" alt="..." />
               </a>
             </div>
           </div>
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <a href="/public/Images/pic-of-gym4.jpg">
-                <img src="/public/Images/pic-of-gym4.jpg" alt="..." />
+              <a href="/Images/pic-of-gym4.jpg">
+                <img src="/Images/pic-of-gym4.jpg" alt="..." />
               </a>
             </div>
           </div>
@@ -211,16 +211,16 @@ const Hostels = () => {
         <div className="row">
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <a href="/public/Images/pic-of-gym5.jpg">
-                <img src="/public/Images/pic-of-gym5.jpg" alt="..." />
+              <a href="/Images/pic-of-gym5.jpg">
+                <img src="/Images/pic-of-gym5.jpg" alt="..." />
               </a>
             </div>
           </div>
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <a href="/public/Images/pic-of-gym6.jpg">
-                <img src="/public/Images/pic-of-gym6.jpg" alt="..." />
+              <a href="/Images/pic-of-gym6.jpg">
+                <img src="/Images/pic-of-gym6.jpg" alt="..." />
               </a>
             </div>
           </div>
@@ -235,7 +235,7 @@ const Hostels = () => {
 
           <div className="col-sm-6 col-md-3">
             <div className="thumbnail">
-              <a href="/public/Images/pic-of-gym8.jpg">
+              <a href="/Images/pic-of-gym8.jpg">
                 <img src="/Images/pic-of-gym8.jpg" alt="..." />
               </a>
             </div>

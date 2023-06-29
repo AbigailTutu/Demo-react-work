@@ -7,6 +7,7 @@ import Hostels from './Hostels'
 import ContactUs from './ContactUs'
 import LearnMore from './LearnMore'
 import ApplyNow from './ApplyNow'
+import Comments from './Comments'
 
 const Routings = () => {
   return (
@@ -17,6 +18,7 @@ const Routings = () => {
       <Route path='/applyNow' element={<ApplyNow/>}/>
       <Route path='/contactUs' element={<ContactUs/>}/>
       <Route path='/learnMore' element={<LearnMore/>}/>
+      <Route path='/comments' element={<Comments/>}/>
     </Routes>
   )
 }

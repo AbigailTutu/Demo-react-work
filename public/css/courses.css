@@ -1,6 +1,6 @@
 a {
     font-size: 15px;
-    margin: 10px;
+    /* margin: 10px; */
 }
 
 .jumbo {
@@ -19,7 +19,6 @@ a {
 
 ul {
     font-size: 20px;
-    padding-top: 20px;
 }
 
 .courses h1 {

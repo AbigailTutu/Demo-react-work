@@ -19,26 +19,29 @@ const Edit = ({ com, setIsEditToFalse }) => {
 
   return (
     <div>
-      <input
-        type="text"
-        name="name"
-        value={name}
-        onChange={(e) => setName(e.target.value)}
-      />{" "}
-      &nbsp; &nbsp;
-      <input
-        type="text"
-        name="mail"
-        value={mail}
-        onChange={(e) => setMail(e.target.value)}
-      />{" "}
-      &nbsp; &nbsp;
-      <input
-        type="textarea"
+      <div style={{marginBottom: "1rem"}}>
+        <input
+          type="text"
+          name="name"
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+        />{" "}
+        <input
+          type="text"
+          name="mail"
+          value={mail}
+          onChange={(e) => setMail(e.target.value)}
+        />{" "}
+      </div>
+      <textarea
         name="comment"
         value={comment}
         onChange={(e) => setComment(e.target.value)}
+        cols="42"
+        rows="5"
       />
+      <br/>
+      <br/>
       <button onClick={() => handleSave(com.id)}>Save</button>
     </div>
   );

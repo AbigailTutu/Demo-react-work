@@ -68,7 +68,7 @@ const Comments = () => {
           <Form.Label>Your comment</Form.Label>
           <Form.Control
             as="textarea"
-            rows={3}
+            rows={5}
             style={{ width: "50rem" }}
             name="comment"
             value={comment}
@@ -87,7 +87,7 @@ const Comments = () => {
         {/** I decided to use "ol" to display the commenst below the buttons in "li" that will render a different component called "component"*/}
         <br />
         <br />
-        <ol>
+        <ol style={{display: "flex", flexWrap: "wrap", gap: "4rem"}}>
           {comments.map((comment) => (
             <li key={comment.id}>
               <Comment com={comment}/> <br />

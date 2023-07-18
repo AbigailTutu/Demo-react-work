@@ -1,5 +1,4 @@
 .breadcrumb {
-	&breadcrumb-divider: none;
 	margin-bottom: 0;
 	height: 50px;
 	background-color: bisque;
@@ -42,7 +41,7 @@ li {
 }
 
 h2 {
-	color: deeppink;
+	color: #ff1493;
 }
 
 .thumbnail1 {

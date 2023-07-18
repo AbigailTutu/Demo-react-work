@@ -3,7 +3,7 @@
     border-color: none;
     margin-bottom: 0;
     border-radius: 0;
-    padding: 20px;
+    /* padding: 20px; */
 }
 
 .navbar-default .nav-brand {
@@ -79,4 +79,19 @@ h1 {
 .founder-para {
     font-size: 20px;
     margin-top: 20rem;
+}
+
+.main {
+    padding-inline: 10rem;
+    padding-top: 10rem;
+}
+
+.footer {
+    margin-top: 18rem;
+}
+
+@media screen and (max-width:900px) {
+    .main {
+        padding-inline: 1rem;
+    }
 }
